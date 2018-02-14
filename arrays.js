@@ -1,1 +1,3 @@
-      chocolateBars =['snickers', 'hundred grand', 'kitkat', 'skittles']
+chocolateBars =['snickers', 'hundred grand', 'kitkat', 'skittles']
+
+addElementToBeginningOfArray(array, element)
