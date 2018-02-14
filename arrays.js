@@ -8,6 +8,6 @@ function addElementToBeginningOfArray(array, element) {
 
 function destructivelyAddElementToBeginningOfArray(array, element) {
   let = newArr = array.slice()
-  newArr.unshift(element)
+  newArr.pop
   return newArr
 }
