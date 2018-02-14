@@ -7,7 +7,7 @@ function addElementToBeginningOfArray(array, element) {
 }
 
 function destructivelyAddElementToBeginningOfArray(array, element) {
-  let = newArr = array.splice(-1)
+  let = newArr = array.splice(1,-1)
   newArr.pop
   return newArr
 }
