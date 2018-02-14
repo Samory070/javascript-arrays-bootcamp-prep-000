@@ -1,7 +1,7 @@
 chocolateBars =['snickers', 'hundred grand', 'kitkat', 'skittles']
 
 function addElementToBeginningOfArray(array, element) {
-  newArr = array
+  let = newArr = array.slice()
   newArr.unshift(element)
   return newArr
 }
